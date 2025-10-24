@@ -3,4 +3,4 @@ This repository will provide the file to quickly be able to start your public or
 
 https://drive.google.com/file/d/1ydqw9Hm8CvBmeaWq-ejTAUp-xAwZwgAC/view?usp=sharing
 
-Please watch this video guide to update your applications
+There is no update needed currently
