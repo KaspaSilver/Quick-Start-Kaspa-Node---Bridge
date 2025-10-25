@@ -6,5 +6,5 @@ Quickly start a private or public Kaspa node to support the network and start a 
 + Download the  Kaspa Node & Bridge v1 found in the releases on the right hand side
 + Extract all the contents to your desktop
 
-# Further Guidance
+# Video Guide
 + Watch this video - 
