@@ -8,5 +8,7 @@ Quickly start a private or public Kaspa node to support the network and start a 
 
 Congrats! You should have a couple of .bat files on your desktop that will run a public or private Kaspa node, the Kaspa bridge, & More!
 
++ Be mindful that to be public you need to open up port 16111 on your router as well
+
 # Video Guide
 + Watch this video - 
